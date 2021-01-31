@@ -1,0 +1,19 @@
+// Repeat expression for a variable range
+rep x^2 for x bet 1 and 10
+
+// Repeat multiple expressions for a variable range
+rep x^2 for x bet 2 and 10 by 2
+
+// Repeat expression for a variable range using by step
+rep sin(x) ' cos(x) for x bet pi and 2*pi by 0.1
+// Repeat expression for a variable range
+
+rep x^2 for x bet 1 and 10
+
+// Repeat multiple expressions for a variable range
+rep x^2 for x bet 2 and 10 by 2
+
+// Repeat expression for a variable range using by step
+rep sin(x) ' cos(x) for x bet pi and 2*pi by 0.1
+    
+)
